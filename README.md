@@ -45,8 +45,8 @@ We would like to express our gratitude to the open-source community for their in
 
 For any questions, suggestions, or collaborations, please feel free to reach out to the project maintainer:
 
-- Name: Dhruvee Vadhvana
-- Email: dhruvee2003@gmail.com
-- GitHub: https://www.linkedin.com/in/dhruvee-vadhvana-b7aa09241/ 
+- Name: Hiral Choksi
+- Email: hchoksi26@gmail.com
+- Linkedln:  https://www.linkedin.com/in/hiral-choksi-734175203/
 
 We welcome contributions and look forward to hearing from you!
